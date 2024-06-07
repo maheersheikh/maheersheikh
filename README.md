@@ -4,6 +4,6 @@
 <h2>My Projects:</h2>
 
 - <b>Flight Path Algorithm </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Flight Path Algorithm](https://github.com/maheersheikh/FlightPathProject/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
