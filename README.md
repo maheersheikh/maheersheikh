@@ -1,4 +1,4 @@
-<h1>Hey, I'm Maheer! <br/><a href="https://www.linkedin.com/in/maheersheikh/">Computer Science Intern</a>
+<h1>Hey, I'm Maheer! <br/><a href="https://www.linkedin.com/in/maheersheikh/">Computer Science Major</a>
 
 
 <h2>My Projects:</h2>
